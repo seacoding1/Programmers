@@ -1,6 +1,6 @@
 function solution(arr1, arr2) {
 
-                  let answer = [];
+            let answer = [];
             let plus;
             for(let i = 0; i < arr1.length; i++){
                 plus = [];

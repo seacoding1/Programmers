@@ -83,6 +83,7 @@ pgrep cron
 mongorestore --host 호스트 --port 포트번호 --db 사용할디비명 <복구할 덤프데이터가 있는 디렉토리>
 ```
 ex ) mongorestore --host localhost --port 27017 --db backup /home/dcarrick/backuptest/dump/backup 
+
 중복된 키가 있으면 아래 에러가 뜹니다.
 에러내용 : continuing through error: E11000 duplicate key error collection
 

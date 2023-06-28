@@ -76,7 +76,7 @@ pgrep cron
 
 
 
-# MONGODB 복구 방법
+# MONGODB 백업 데이터 복구 방법
 
 방법 1 ) 중복된 키 제외한 값만 복구됨
 ```
